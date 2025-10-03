@@ -43,6 +43,9 @@ npm run dev
 # Build and sync for iOS
 npm run ios:build
 
+# Open App in XCode
+npx cap open ios
+
 # Run on iOS simulator
 npm run ios
 ```
